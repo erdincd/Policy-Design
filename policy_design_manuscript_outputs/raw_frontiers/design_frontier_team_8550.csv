@@ -1,0 +1,6 @@
+pattern_id,worker_leaf_nodes,cost,mean_performance,mean_job_satisfaction,support_size,policy__Prehire Tests,policy__Structured Interviews,policy__Employee Participation,policy__Complaint Procedure,policy__Group Bonuses,policy__Individual Bonuses,policy__Performance Evaluation,policy__Goals Communication,policy__Suggestion Adoption,policy__Performance Pay,policy__Internal Promotion,policy__Job Autonomy,policy__Selective Hiring,policy__Pay Competitiveness,policy__Job Training,solution_id,setting,team_label,n_active_levers
+P4,76,75.0,6.4,5.6659999999999995,1,1.0,7.0,4.0,6.0,1.0,1.0,6.0,4.0,2.0,1.0,6.0,1.0,1.0,1.0,2.0,D8550_S1,design,8550,
+P5,77,106.0,5.35,6.331999999999999,1,4.0,4.0,5.0,2.0,1.0,1.0,7.0,4.0,4.0,2.0,7.0,6.0,2.0,1.0,4.0,D8550_S2,design,8550,
+P3,88,108.0,6.75,6.164999999999999,16,2.0,5.0,5.0,5.0,2.0,4.0,6.0,4.0,2.0,2.0,4.0,4.0,3.0,3.0,3.0,D8550_S3,design,8550,
+P2,87,110.0,6.916666666666667,6.5566666666666675,16,2.0,4.0,4.0,5.0,2.0,4.0,5.0,4.0,3.0,3.0,5.0,4.0,3.0,3.0,3.0,D8550_S4,design,8550,
+P1,124,118.0,7.0,6.5566666666666675,16,2.0,6.0,5.0,6.0,2.0,2.0,5.0,5.0,5.0,2.0,4.0,5.0,5.0,3.0,3.0,D8550_S5,design,8550,
