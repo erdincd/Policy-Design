@@ -93,7 +93,7 @@ The Excel workbook `policy_design_manuscript_outputs/policy_design_manuscript_ou
 
 ## Data note
 
-`Data - Policy Redesign.csv` contains the anonymized empirical data used in the manuscript. Before making this repository public, confirm that the data-sharing permissions and any ethics or confidentiality requirements allow public release of the anonymized file.
+`Data - Policy Redesign.csv` contains the anonymized empirical data used in the manuscript.
 
 ## Notes on interpretation
 
