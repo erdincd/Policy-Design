@@ -1,0 +1,11 @@
+pattern_id,worker_leaf_nodes,cost,mean_performance,mean_job_satisfaction,support_size,policy__Prehire Tests,policy__Structured Interviews,policy__Employee Participation,policy__Complaint Procedure,policy__Group Bonuses,policy__Individual Bonuses,policy__Performance Evaluation,policy__Goals Communication,policy__Suggestion Adoption,policy__Performance Pay,policy__Internal Promotion,policy__Job Autonomy,policy__Selective Hiring,policy__Pay Competitiveness,policy__Job Training,solution_id,setting,team_label,n_active_levers
+P7,16|76,75.0,6.575,6.208,1,1.0,7.0,4.0,6.0,1.0,1.0,6.0,4.0,2.0,1.0,6.0,1.0,1.0,1.0,2.0,D5110_S1,design,5110,
+P10,10|76,85.0,6.408333333333333,6.223,1,2.0,3.0,3.0,4.0,1.0,2.0,2.0,2.0,2.0,2.0,5.0,2.0,3.0,5.0,3.0,D5110_S2,design,5110,
+P11,10|77,106.0,5.883333333333333,6.555999999999999,1,4.0,4.0,5.0,2.0,1.0,1.0,7.0,4.0,4.0,2.0,7.0,6.0,2.0,1.0,4.0,D5110_S3,design,5110,
+P8,10|89,108.0,6.291666666666667,6.890000000000001,16,2.0,5.0,5.0,5.0,2.0,4.0,6.0,4.0,2.0,2.0,4.0,4.0,3.0,3.0,3.0,D5110_S4,design,5110,
+P9,10|93,109.0,6.375,6.668333333333334,1,2.0,7.0,3.0,5.0,6.0,5.0,5.0,6.0,4.0,3.0,3.0,2.0,2.0,3.0,1.0,D5110_S5,design,5110,
+P3,41|93,112.0,6.666666666666666,6.778333333333334,1,3.0,7.0,6.0,2.0,5.0,5.0,7.0,2.0,6.0,1.0,3.0,4.0,2.0,2.0,1.0,D5110_S6,design,5110,
+P6,16|89,112.0,6.458333333333334,6.875,16,2.0,6.0,5.0,6.0,3.0,4.0,6.0,5.0,3.0,2.0,4.0,4.0,3.0,2.0,3.0,D5110_S7,design,5110,
+P4,41|76,115.0,6.7,6.333,16,3.0,5.0,5.0,4.0,3.0,3.0,6.0,4.0,5.0,2.0,5.0,5.0,3.0,2.0,3.0,D5110_S8,design,5110,
+P2,41|89,117.0,6.583333333333334,7.0,16,3.0,6.0,5.0,4.0,4.0,4.0,6.0,4.0,5.0,2.0,4.0,4.0,3.0,3.0,2.0,D5110_S9,design,5110,
+P1,41|124,118.0,7.0,6.778333333333334,16,2.0,6.0,5.0,6.0,2.0,2.0,5.0,5.0,5.0,2.0,4.0,5.0,5.0,3.0,3.0,D5110_S10,design,5110,

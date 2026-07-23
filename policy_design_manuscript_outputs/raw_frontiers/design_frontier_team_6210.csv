@@ -1,0 +1,5 @@
+pattern_id,worker_leaf_nodes,cost,mean_performance,mean_job_satisfaction,support_size,policy__Prehire Tests,policy__Structured Interviews,policy__Employee Participation,policy__Complaint Procedure,policy__Group Bonuses,policy__Individual Bonuses,policy__Performance Evaluation,policy__Goals Communication,policy__Suggestion Adoption,policy__Performance Pay,policy__Internal Promotion,policy__Job Autonomy,policy__Selective Hiring,policy__Pay Competitiveness,policy__Job Training,solution_id,setting,team_label,n_active_levers
+P4,13|13|13,75.0,7.0,6.0,1,1.0,7.0,4.0,6.0,1.0,1.0,6.0,4.0,2.0,1.0,6.0,1.0,1.0,1.0,2.0,D6210_S1,design,6210,
+P3,44|27|24,110.0,6.798611111111111,6.137777777777777,1,1.0,2.0,5.0,5.0,1.0,1.0,1.0,4.0,5.0,6.0,3.0,7.0,6.0,2.0,1.0,D6210_S2,design,6210,
+P2,44|30|30,112.0,6.944444444444444,6.777777777777778,1,3.0,7.0,6.0,2.0,5.0,5.0,7.0,2.0,6.0,1.0,3.0,4.0,2.0,2.0,1.0,D6210_S3,design,6210,
+P1,65|65|65,141.0,7.0,6.3325,1,7.0,7.0,7.0,7.0,1.0,1.0,7.0,7.0,7.0,1.0,5.0,5.0,4.0,4.0,7.0,D6210_S4,design,6210,

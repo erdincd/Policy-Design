@@ -1,0 +1,8 @@
+pattern_id,worker_leaf_nodes,cost,mean_performance,mean_job_satisfaction,support_size,policy__Prehire Tests,policy__Structured Interviews,policy__Employee Participation,policy__Complaint Procedure,policy__Group Bonuses,policy__Individual Bonuses,policy__Performance Evaluation,policy__Goals Communication,policy__Suggestion Adoption,policy__Performance Pay,policy__Internal Promotion,policy__Job Autonomy,policy__Selective Hiring,policy__Pay Competitiveness,policy__Job Training,solution_id,setting,team_label,n_active_levers
+P6,72|76,75.0,5.783333333333333,4.721333333333333,1,1.0,7.0,4.0,6.0,1.0,1.0,6.0,4.0,2.0,1.0,6.0,1.0,1.0,1.0,2.0,D2020_S1,design,2020,
+P5,81|81,105.0,4.5,5.553333333333334,1,1.0,3.0,1.0,4.0,1.0,5.0,6.0,2.0,2.0,3.0,5.0,6.0,4.0,3.0,1.0,D2020_S2,design,2020,
+P7,72|77,106.0,5.258333333333333,5.054333333333333,1,4.0,4.0,5.0,2.0,1.0,1.0,7.0,4.0,4.0,2.0,7.0,6.0,2.0,1.0,4.0,D2020_S3,design,2020,
+P2,89|89,108.0,6.166666666666667,7.0,16,2.0,5.0,5.0,5.0,2.0,4.0,6.0,4.0,2.0,2.0,4.0,4.0,3.0,3.0,3.0,D2020_S4,design,2020,
+P4,92|92,109.0,6.6,5.866,1,2.0,7.0,3.0,5.0,6.0,5.0,5.0,6.0,4.0,3.0,3.0,2.0,2.0,3.0,1.0,D2020_S5,design,2020,
+P3,106|106,113.0,6.75,6.333333333333333,16,2.0,6.0,6.0,3.0,2.0,2.0,6.0,5.0,2.0,2.0,5.0,4.0,5.0,4.0,2.0,D2020_S6,design,2020,
+P1,125|125,118.0,7.0,7.0,16,2.0,6.0,5.0,6.0,2.0,2.0,5.0,5.0,5.0,2.0,4.0,5.0,5.0,3.0,3.0,D2020_S7,design,2020,
